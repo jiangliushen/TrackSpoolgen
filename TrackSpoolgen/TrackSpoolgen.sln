@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackSpoolgen", "TrackSpoolgen\TrackSpoolgen.csproj", "{B7C27DB2-328C-42B9-A705-457C15EF788F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTrackSpoolgen", "SetupTrackSpoolgen\SetupTrackSpoolgen.vdproj", "{C8BEBC98-F82F-42FE-AE42-EA89E0F6AAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C27DB2-328C-42B9-A705-457C15EF788F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C27DB2-328C-42B9-A705-457C15EF788F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C27DB2-328C-42B9-A705-457C15EF788F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C27DB2-328C-42B9-A705-457C15EF788F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BEBC98-F82F-42FE-AE42-EA89E0F6AAB9}.Debug|Any CPU.ActiveCfg = Debug
+		{C8BEBC98-F82F-42FE-AE42-EA89E0F6AAB9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1953379-2566-483D-9C74-A8E662BA49A1}
+	EndGlobalSection
+EndGlobal

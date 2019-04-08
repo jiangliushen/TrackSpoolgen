@@ -1,0 +1,11 @@
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\bin\Debug\TrackSpoolgen.exe
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\bin\Debug\TrackSpoolgen.pdb
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.csprojAssemblyReference.cache
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.Form1.resources
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.Properties.Resources.resources
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.csproj.GenerateResource.cache
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.csproj.CoreCompileInputs.cache
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.exe
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.pdb
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\bin\Debug\Aspose.Cells.dll
+F:\VisualStudioWorkspace\TrackSpoolgen\TrackSpoolgen\obj\Debug\TrackSpoolgen.csproj.CopyComplete
